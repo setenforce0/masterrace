@@ -1,2 +1,109 @@
-Arch
-Some other shit distros no one cares about
+LIST OF DISTROS (Linux & BSD)
+=================
+
+*MAJOR*
+
+Linux Mint
+Ubuntu
+    Xubuntu
+    Kubuntu
+    Lubuntu
+    Ubuntu MATE
+    Ubuntu GNOME
+    Ubuntu Budgie
+    Ubuntu Studio
+Debian
+    Raspbian
+Mageia
+Fedora
+openSUSE
+Arch Linux
+    ArchBang
+    Antergos
+    Black Arch
+CentOS
+PCLinuxOS
+Slackware Linux
+FreeBSD
+
+
+
+*NOT MAJOR*
+
+Manjaro Linux
+Gentoo
+Zorin
+deepin
+elementaryOS
+Solus
+TrueOS
+ReactOS
+Lite Linux 
+Kali Linux
+KDE Neon
+LXLE
+Puppy Linux
+AntiX
+Tails
+Peppermint Linux
+MX Linux
+SparkyLinux
+Black Lab Linux
+Ultimate Linux
+Parrot
+Bodhi
+KaOS
+Red Hat Enterprise Linux
+Alpine Linux
+wattOS
+Sabayon
+Gecko
+ROSA
+KNOPPIX
+Q4OS
+GhostBSD
+Devuan
+ClearOS
+4MLinux
+RancherOS
+KX Studio
+Lakka
+Voyager
+Revenge Linux
+Tiny Core Linux
+Chakra
+DragonFlyBSD
+Korora
+Arya
+QubesOS
+BackBox
+Maui
+OpenMandriva
+Bluestar Linux
+NixOS
+Clonezilla
+OpenBSD
+MidnightBSD
+HardendedBSD
+Porteus
+Scientific Linux
+RoboLinux
+Trisquel GNU/Linux
+Parabola GNU/Linux
+SteamOS
+AUSTRUMI
+Zenwalk
+Absolute Linux
+ExTiX
+Simplicity
+Calculate Linux
+Vector Linux
+Emmabuntüs
+Kodachi
+OpenELEC
+AV Linux
+GParted
+FreeNAS
+Void Linux
+SUSE
+NetBSD
